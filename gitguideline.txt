@@ -1,0 +1,18 @@
+Git guideline 
+Change directory : cd (FolderName)
+Back to directory : cd .. 
+To make new file : mkdir (folderName)
+To make new file : touch (fileName)
+
+Add file in git : git add .
+Commit a file : git commit -m "massage a commit"
+push file to the branch: git push -u origin (benchName)
+Clone a file : git clone (GitHub link)
+To check any change : git status 
+To check file in folder : git status 
+To check your current branch : git branch 
+To make new branch : git branch (branchName)
+To switch branch : git checkout (branchName)
+See output : git log
+To see output in oneline: git log oneline
+
